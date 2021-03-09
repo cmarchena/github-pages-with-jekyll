@@ -1,3 +1,7 @@
+---
+title: "Welcome!"
+date: 2021-03-09
+---
 ![law code man seated writing](./media/img/swc.png)
 ******
 # Blog
